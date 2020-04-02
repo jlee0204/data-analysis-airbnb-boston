@@ -1,8 +1,8 @@
 Airbnb Boston Data Analysis
 ===========================
-* Analysis on data from Boston AirBNB homes to be used to understand how much AirBNB homes are earning in certain time frames and areas. 
-* Regression Modelling - Trying to understand if there is anything about the properties that helps you predict price. 
-* Sentiment Analysis - Understanding negative and positive reviews based on text? 
+*What are the most expensive locations in Boston
+*What are the busiest times of the year to visit Boston? By how much do prices spike?
+*What are the best places to stay in Boston Based on the reviews?
 
 ## Getting Started
 
@@ -30,6 +30,10 @@ listings.csv
 reviews.csv
 ```
 
+Blog:
+https://medium.com/@jaemo.lee0204/an-analytical-view-of-the-best-places-to-stay-in-boston-84df86cb6be2
 
+Acknowledgements:
+Project was done in accordance to the Udacity Nanodegree
 
 
