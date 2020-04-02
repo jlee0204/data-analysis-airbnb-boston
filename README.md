@@ -30,10 +30,10 @@ listings.csv
 reviews.csv
 ```
 
-Blog:
+### Blog:
 https://medium.com/@jaemo.lee0204/an-analytical-view-of-the-best-places-to-stay-in-boston-84df86cb6be2
 
-Acknowledgements:
+### Acknowledgements:
 Project was done in accordance to the Udacity Nanodegree
 
 
